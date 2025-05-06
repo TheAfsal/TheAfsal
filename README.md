@@ -84,7 +84,7 @@
     </a>
     <!-- gRPC -->
     <a href="https://grpc.io" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grpc/grpc-original-wordmark.svg" alt="gRPC" width="40" height="40"/>
+        <img src="https://grpc.io/img/logos/grpc-logo.png" alt="gRPC" width="40" height="40"/>
     </a>
     <!-- Socket.IO -->
     <a href="https://socket.io" target="_blank" rel="noreferrer">
@@ -92,7 +92,7 @@
     </a>
     <!-- WebRTC -->
     <a href="https://webrtc.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webrtc/webrtc-original-wordmark.svg" alt="WebRTC" width="40" height="40"/>
+        <img src="https://www.gstatic.com/devrel-devsite/prod/v8d1d0686aef3ca9671e026a6ce14af5c61b805aabef7c385b0e34494acbfc654/webrtc/images/lockup.svg" alt="WebRTC" width="40" height="40"/>
     </a>
     <!-- Prisma -->
     <a href="https://www.prisma.io" target="_blank" rel="noreferrer">
@@ -108,15 +108,15 @@
     </a>
     <!-- Razorpay -->
     <a href="https://razorpay.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/razorpay/razorpay-original-wordmark.svg" alt="Razorpay" width="40" height="40"/>
+        <img src="https://razorpay.com/favicon.png" alt="Razorpay" width="40" height="40"/>
     </a>
     <!-- Stripe -->
     <a href="https://stripe.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stripe/stripe-original-wordmark.svg" alt="Stripe" width="40" height="40"/>
+        <img src="https://assets.stripeassets.com/fzn2n1nzq965/01hMKr6nEEGVfOuhsaMIXQ/c424849423b5f036a8892afa09ac38c7/favicon.ico" alt="Stripe" width="40" height="40"/>
     </a>
     <!-- Tailwind CSS -->
     <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+        <img src="https://tailwindcss.com/favicons/favicon.ico?v=4" alt="Tailwind CSS" width="40" height="40"/>
     </a>
 </p>
 
